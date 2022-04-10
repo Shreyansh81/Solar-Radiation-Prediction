@@ -1,5 +1,5 @@
 # Solar-Radiation-Prediction and Measuring value of solar radiation
--by Shreyansh Jain, student from Birla Institute Of Technology, Mesra
+-by Shreyansh Jain, student from Birla Institute of Technology, Mesra
 
 This is my project on machine learning. Languages included : Python
 
