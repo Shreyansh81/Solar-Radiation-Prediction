@@ -1,5 +1,5 @@
 # Solar-Radiation-Prediction and Measuring value of solar radiation
--by Shreyansh Jain, Arushi Mahawar and Yash Gupta student from Birla Institute of Technology, Mesra
+-by Shreyansh Jain, Arushi Mahawar and Yash Gupta students from Birla Institute of Technology, Mesra
 
 This is my project on machine learning and Solar Energy. Languages included : Python
 
