@@ -1,7 +1,7 @@
 # Solar-Radiation-Prediction and Measuring value of solar radiation
--by Shreyansh Jain, student from Birla Institute of Technology, Mesra
+-by Shreyansh Jain, Arushi Mahawar and Yash Gupta student from Birla Institute of Technology, Mesra
 
-This is my project on machine learning. Languages included : Python
+This is my project on machine learning and Solar Energy. Languages included : Python
 
 # Goal : 
 To predict the level of solar radition from the measurements and also measure the values using solar cell using embedded system i.e with the help of Arduino.
